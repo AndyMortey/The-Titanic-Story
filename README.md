@@ -10,6 +10,6 @@ This project aims to provide a complete analysis of what sorts of people were li
 The data understanding phase starts with an initial data collection and proceeds with activities in order to get familiar with the data, to identify data quality problems, to discover first insights into the data, or to detect interesting subsets to form hypotheses for hidden information.
 
 ### Check Data Quality
-Most common checks in this case is to check missing values, some basic data cleaning like cleaning up currency field, checking for null values and the 
-* 
-* 
+Most common checks in this case is to check missing values, some basic data cleaning like cleaning up currency field, checking for null values, converting the currency column to a float datatype and removing '$' from the fare column.
+
+ 
