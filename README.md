@@ -49,8 +49,8 @@ The project uses pandas series hist() function which handles missing values.
 #### Stack Age histogram of Survived on top of overall Age histogram
 This plots histogram for Age, then filters out survived passengers and plot histogram for Age on same axis but sets different color and label.
 
-### Appreciation
+## Appreciation
 I highly recommend Azubi Africa for their comprehensive and effective programs. Read More articles about [Azubi Africa here](https://medium.com/@azubiafrica) and take a few minutes to visit this link to learn more about Azubi Africa life-changing [programs](https://bit.ly/41CGCwK)
 
-### Tags
+## Tags
 [Azubi Data Science](https://bit.ly/3ARq742)
